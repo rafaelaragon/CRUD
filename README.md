@@ -1,8 +1,6 @@
-# CRUD películas/series por ver
-CRUD para entrega de trabajo de Programación 1º DAM (7 de Marzo)
+# Películas y Series Pendientes
+## CRUD para entrega de trabajo de Programación 1º DAM (7 de Marzo)
 
-El objetivo es crear una página que me permita añadir películas o series que aún no haya visto.
+El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las series o películas que aún no he visto, o simplemente volver a ver las que más me hayan gustado. A continuación se ven sus funciones:
 
-Habrá una tabla para series y otra para películas, al entrar en el índice se podrá elegir a cuál acceder.
-
-Cada tabla tendrá su id, nombre, saga (si tiene), género, nº de capítulos/duración...
+- Indice
