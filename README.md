@@ -48,3 +48,17 @@ main.css<br>
 javascript.js<br>
 **Este es el css que yo he creado:**<br>
 index.css
+## Base de datos:
+*Nota: el nombre de tanto la base de datos como de la tabla socio es provisional, ya que usé una plantilla. Ya que no compromete el CRUD, aún no lo he cambiado.*<br>
+La base de datos está formada por dos tablas; *socio (equivaldría a películas)* y *series*.<br>
+**Socio** está formado por:<br>
+- IdPel: La clave primaria de la película.<br>
+- NomPel: El nombre completo de la película.<br>
+- SagPel: La saga a la que pertenece la película, en caso de que pertenezca a alguna.<br>
+- GenPel: El género, o géneros, de la película.<br>
+- DurPel: La duración de la película, en minutos.<br>
+<br>
+**Series**<br>
+<br>
+*baloncesto.sql*
+
