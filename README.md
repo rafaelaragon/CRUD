@@ -29,6 +29,8 @@ Al pulsar el botón de añadir película/serie, aparece el siguiente modal. En �
 *nuevaserie.jsp*
 <img src="Fotos CRUD/Añadir Serie.png" alt="Añadir Serie">
 ## Editar película / serie:
+Cuando pulsas el lápiz, se activa el siguiente modal. En él, tienes que sobreescribir el nombre, género y saga de la serie o película, además de la duración en minutos, para las **películas**, o el número de capítulos, para las **series**.<br>
+<br>
 *actualizapelicula.jsp*<br>
 <img src="Fotos CRUD/Editar Película.png" alt="Editar Película">
 *actualizaserie.jsp*
