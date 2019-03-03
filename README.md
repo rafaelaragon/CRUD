@@ -52,13 +52,13 @@ index.css
 *Nota: el nombre de tanto la base de datos como de la tabla socio es provisional, ya que usé una plantilla. Ya que no compromete el CRUD, aún no lo he cambiado.*<br>
 La base de datos está formada por dos tablas; *socio (equivaldría a películas)* y *series*.<br>
 **Socio** está formada por:<br>
-<a>
-- IdPel: La clave primaria de la película.<br>
-- NomPel: El nombre completo de la película.<br>
-- GenPel: El género, o géneros, de la película.<br>
-- SagPel: La saga a la que pertenece la película. En caso de que pertenezca a alguna.<br>
-- DurPel: La duración de la película, en minutos.<br>
-<a/>
+<ul>
+<li> IdPel: La clave primaria de la película.</li><br>
+<li> NomPel: El nombre completo de la película.</li><br>
+<li> GenPel: El género, o géneros, de la película.</li><br>
+<li> SagPel: La saga a la que pertenece la película. En caso de que pertenezca a alguna.</li><br>
+<li> DurPel: La duración de la película, en minutos.</li><br>
+</ul>
 <br>
 **Series** está formada por:<br>
 - IdSer: La clave primaria de la serie.<br>
