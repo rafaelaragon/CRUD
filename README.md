@@ -11,6 +11,7 @@ Al entrar en la página tienes a elegir entre dos botones. El primero te lleva a
 ## Películas
 Aquí aparece una tabla con los datos de las películas que quiero ver. En la esquina superior derecha hay un botón, *"Añadir Película"*,
 que activa un modal para añadir una película a la base de datos.<br>
+<br>
 *Peliculas.jsp*
 <img src="Fotos CRUD/Películas.png" alt="Películas">
 ## Series
