@@ -20,14 +20,14 @@ El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las
 <img src="Fotos CRUD/Añadir Serie.png" alt="Añadir Serie">
 # Editar película / serie:
 *actualizapelicula.jsp*<br>
-<img src="smiley.gif" alt="Smiley face">
+<img src="Editar Película.png" alt="Editar Película">
 *actualizaserie.jsp*
-<img src="smiley.gif" alt="Smiley face">
+<img src="Editar Serie.png" alt="Editar Serie">
 # Borrar película / serie:
 *borrapelícula.jsp*
-<img src="smiley.gif" alt="Smiley face">
+<img src="Borrar Película.png" alt="Borrar Película">
 *borraserie.jsp*
-<img src="smiley.gif" alt="Smiley face">
+<img src="Fotos CRUD/Borrar Serie.png" alt="Borrar Serie">
 # CSS y JavaScript:
 **Tanto en *peliculas.jsp* como en *series.jsp* he utilizado una plantilla CRUD de Internet, que luego he ido actualizando.**<br>
 main.css<br>
