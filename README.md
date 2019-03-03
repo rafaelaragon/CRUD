@@ -15,11 +15,11 @@ El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las
 
 ## Funciones
 # Añadir película/serie:
-*nuevapelicula.jsp*
+*nuevapelicula.jsp*<br>
 *nuevaserie.jsp*
 
 # Editar película / serie:
-*actualizapelicula.jsp*
+*actualizapelicula.jsp*<br>
 *actualizaserie.jsp*
 
 # Borrar película / serie:
