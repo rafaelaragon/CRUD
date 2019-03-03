@@ -29,6 +29,6 @@ El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las
 # CSS y JavaScript:
 **Tanto en *peliculas.jsp* como en *series.jsp* he utilizado una plantilla CRUD de Internet, que luego he ido actualizando.**<br>
 main.css<br>
-javascript.js
+javascript.js<br>
 **Este es el css que yo he creado:**<br>
 index.css
