@@ -8,16 +8,16 @@ El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las
 <img src="Fotos CRUD/Índice.png" alt="Índice">
 ## Películas
 *Peliculas.jsp*
-<img src="smiley.gif" alt="Smiley face">
+<img src="Fotos CRUD/Películas.png" alt="Películas">
 ## Series
 *Series.jsp*
-<img src="smiley.gif" alt="Smiley face">
+<img src="Fotos CRUD/Series.png" alt="Series">
 ## Funciones
 # Añadir película/serie:
 *nuevapelicula.jsp*<br>
-<img src="smiley.gif" alt="Smiley face">
+<img src="Fotos CRUD/Añadir Película.png" alt="Añadir Película">
 *nuevaserie.jsp*
-<img src="smiley.gif" alt="Smiley face">
+<img src="Fotos CRUD/Añadir Serie.png" alt="Añadir Serie">
 # Editar película / serie:
 *actualizapelicula.jsp*<br>
 <img src="smiley.gif" alt="Smiley face">
