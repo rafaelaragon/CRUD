@@ -1,0 +1,7 @@
+body {background-color: #5a5a5a;}
+.btn-red {background-color: #c60000;
+          color: white}
+.btn-red:hover {color: grey;}
+.btn-white {background-color: white;
+          color: #c60000;}
+.btn-white:hover {color: grey;}
