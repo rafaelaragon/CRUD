@@ -22,6 +22,7 @@ Funciona exactamente igual que las películas, pero aplicado a las series pendie
 <img src="Fotos CRUD/Series.png" alt="Series">
 # Funciones
 ## Añadir película/serie:
+Al pulsar el botón de añadir película/serie, aparece el siguiente modal. En él, tienes que escribir, el nombre, género y saga de la serie o película, además de la duración en minutos, para las **películas**, o el número de capítulos, para las **series**.<br>
 *nuevapelicula.jsp*<br>
 <img src="Fotos CRUD/Añadir Película.png" alt="Añadir Película">
 *nuevaserie.jsp*
