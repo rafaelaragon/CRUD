@@ -24,7 +24,7 @@ El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las
 *actualizaserie.jsp*
 <img src="Fotos CRUD/Editar Serie.png" alt="Editar Serie">
 # Borrar película / serie:
-*borrapelícula.jsp*
+*borrapelicula.jsp*
 <img src="Fotos CRUD/Borrar Película.png" alt="Borrar Película">
 *borraserie.jsp*
 <img src="Fotos CRUD/Borrar Serie.png" alt="Borrar Serie">
