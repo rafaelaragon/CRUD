@@ -11,6 +11,7 @@ Al entrar en la página tienes a elegir entre dos botones. El primero te lleva a
 ## Películas
 Aquí aparece una tabla con los datos de las películas que quiero ver. En la esquina superior derecha hay un botón, *"Añadir Película"*,
 que activa un modal para añadir una película a la base de datos.<br>
+Además, en la columna de más a la derecha aparecen dos iconos, el lápiz y la bomba, que respectivamente activan modales de edición de una película y de borrado de la misma.<br>
 <br>
 *Peliculas.jsp*
 <img src="Fotos CRUD/Películas.png" alt="Películas">
