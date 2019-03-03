@@ -50,7 +50,7 @@ javascript.js<br>
 index.css
 ## Base de datos:
 *Nota: el nombre de tanto la base de datos como de la tabla socio es provisional, ya que usé una plantilla. Ya que no compromete el CRUD, aún no lo he cambiado.*<br>
-La base de datos, llamada *baloncesto.sql* está formada por dos tablas; *socio (equivaldría a películas)* y *series*.<br>
+La base de datos, llamada *baloncesto.sql*, está formada por dos tablas; *socio (equivaldría a películas)* y *series*.<br>
 **Socio** está formada por:<br>
 - IdPel: La clave primaria de la película.<br>
 - NomPel: El nombre completo de la película.<br>
