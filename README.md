@@ -64,5 +64,6 @@ La base de datos está formada por dos tablas; *socio (equivaldría a películas
 - GenSer: El género, o géneros, de la serie.<br>
 - SagSer: La saga a la que pertenece la serie. En caso de que pertenezca a alguna.<br>
 - NumCapSer: El número de capítulos de la serie. Si la serie tiene varias temporadas, se cuenta el número total de capítulos.<br>
+<br>
 *baloncesto.sql*
 
