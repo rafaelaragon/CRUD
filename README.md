@@ -58,8 +58,7 @@ La base de datos está formada por dos tablas; *socio (equivaldría a películas
 - SagPel: La saga a la que pertenece la película. En caso de que pertenezca a alguna.<br>
 - DurPel: La duración de la película, en minutos.<br>
 <br>
-##
-**Series** está formada por:<br>
+__Series__ está formada por:<br>
 - IdSer: La clave primaria de la serie.<br>
 - NomSer: El nombre completo de la serie.<br>
 - GenSer: El género, o géneros, de la serie.<br>
