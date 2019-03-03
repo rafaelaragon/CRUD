@@ -16,6 +16,8 @@ Además, en la columna de más a la derecha aparecen dos iconos, el lápiz y la 
 *Peliculas.jsp*
 <img src="Fotos CRUD/Películas.png" alt="Películas">
 ## Series
+Funciona exactamente igual que las películas, pero aplicado a las series pendientes. También tiene opción de añadido, edición y borrado.<br>
+<br>
 *Series.jsp*
 <img src="Fotos CRUD/Series.png" alt="Series">
 # Funciones
