@@ -22,26 +22,28 @@ Funciona exactamente igual que las películas, pero aplicado a las series pendie
 <img src="Fotos CRUD/Series.png" alt="Series">
 # Funciones
 ## Añadir película/serie:
-Al pulsar el botón de añadir película/serie, aparece el siguiente modal. En él, tienes que escribir el nombre, género y saga de la serie o película, además de la duración en minutos, para las **películas**, o el número de capítulos, para las **series**.<br>
+Al pulsar el botón de añadir película/serie, aparece el siguiente modal. En él, tienes que escribir el nombre, género y saga de la serie o película, además de la duración en minutos, para las **películas**, o el número de capítulos, para las **series**Si aceptas, ésta se añadirá a la base de datos.<br>
 <br>
 *nuevapelicula.jsp*<br>
 <img src="Fotos CRUD/Añadir Película.png" alt="Añadir Película">
 *nuevaserie.jsp*
 <img src="Fotos CRUD/Añadir Serie.png" alt="Añadir Serie">
 ## Editar película / serie:
-Cuando pulsas el lápiz, se activa el siguiente modal. En él, tienes que sobreescribir el nombre, género y saga de la serie o película, además de la duración en minutos, para las **películas**, o el número de capítulos, para las **series**.<br>
+Cuando pulsas el lápiz, se activa el siguiente modal. En él, tienes que sobreescribir el nombre, género y saga de la serie o película, además de la duración en minutos, para las **películas**, o el número de capítulos, para las **series**Si aceptas, ésta se actualizará en la base de datos.<br>
 <br>
 *actualizapelicula.jsp*<br>
 <img src="Fotos CRUD/Editar Película.png" alt="Editar Película">
 *actualizaserie.jsp*
 <img src="Fotos CRUD/Editar Serie.png" alt="Editar Serie">
 ## Borrar película / serie:
+Si pulsas en la bomba, se activa el siguiente modal. En él, se advierte que la serie o película seleccionada se va a borrar. Si aceptas, ésta se borrará de la base de datos.<br>
+<br>
 *borrapelicula.jsp*
 <img src="Fotos CRUD/Borrar Película.png" alt="Borrar Película">
 *borraserie.jsp*
 <img src="Fotos CRUD/Borrar Serie.png" alt="Borrar Serie">
 ## CSS y JavaScript:
-**Tanto en *peliculas.jsp* como en *series.jsp* he utilizado una plantilla CRUD de Internet, que luego he ido actualizando.**<br>
+**Tanto en *peliculas.jsp* como en *series.jsp* he utilizado una plantilla CRUD de Internet, que luego he adaptado.**<br>
 main.css<br>
 javascript.js<br>
 **Este es el css que yo he creado:**<br>
