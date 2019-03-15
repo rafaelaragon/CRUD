@@ -1,6 +1,10 @@
 # Películas y Series Pendientes
 ## CRUD para entrega de trabajo de Programación 1º DAM (7 de Marzo)
 
+Vídeos en los que explico mi CRUD:
+- https://www.youtube.com/watch?v=akKfy3JpKEY&feature=youtu.be
+- https://www.youtube.com/watch?v=8Q3AXF7Zqxs&feature=youtu.be
+
 El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las series o películas que aún no haya visto, o simplemente volver a ver las que más me hayan gustado.
 
 ## Índice
