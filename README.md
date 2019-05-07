@@ -4,8 +4,7 @@
 Vídeos en los que explico mi CRUD:
 - https://www.youtube.com/watch?v=akKfy3JpKEY&feature=youtu.be
 - https://www.youtube.com/watch?v=8Q3AXF7Zqxs&feature=youtu.be
-
-- pipo
+- https://www.youtube.com/watch?v=n3Buv6HXbvg&feature=youtu.be
 
 El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las series o películas que aún no haya visto, o simplemente volver a ver las que más me hayan gustado.
 
@@ -18,7 +17,7 @@ Al entrar en la página tienes a elegir entre dos botones. El primero te lleva a
 Aquí aparece una tabla con los datos de las películas que quiero ver. En la esquina superior derecha hay un botón, *"Añadir Película"*,
 que activa un modal para añadir una película a la base de datos.<br>
 Además, en la columna de más a la derecha aparecen dos iconos, el lápiz y la bomba, que respectivamente activan modales de edición de una película y de borrado de la misma.<br>
-**(¡Nuevo!)** Se ha añadido el nombre de usuario a la tabla con las películas, así como un filtro para facilitar las búsquedas. 
+**(¡Nuevo!)** Se ha añadido el nombre de usuario a la tabla con las películas, así como un filtro para facilitar las búsquedas.<br> 
 <br>
 *Peliculas.jsp*
 <img src="Fotos CRUD/Películas.png" alt="Películas">
