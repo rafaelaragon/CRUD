@@ -18,11 +18,12 @@ Al entrar en la página tienes a elegir entre dos botones. El primero te lleva a
 Aquí aparece una tabla con los datos de las películas que quiero ver. En la esquina superior derecha hay un botón, *"Añadir Película"*,
 que activa un modal para añadir una película a la base de datos.<br>
 Además, en la columna de más a la derecha aparecen dos iconos, el lápiz y la bomba, que respectivamente activan modales de edición de una película y de borrado de la misma.<br>
+**(¡Nuevo!)** Se ha añadido el nombre de usuario a la tabla con las películas, así como un filtro para facilitar las búsquedas. 
 <br>
 *Peliculas.jsp*
 <img src="Fotos CRUD/Películas.png" alt="Películas">
 ## Series
-Funciona exactamente igual que las películas, pero aplicado a las series pendientes. También tiene opción de añadido, edición y borrado.<br>
+Funciona exactamente igual que las películas, pero aplicado a las series pendientes. También tiene opción de añadido, edición y borrado, así como un filtro para facilitar las búsquedas.<br>
 <br>
 *Series.jsp*
 <img src="Fotos CRUD/Series.png" alt="Series">
