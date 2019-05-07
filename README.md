@@ -51,13 +51,17 @@ Si pulsas en la bomba, se activa el siguiente modal. En él, se advierte que la 
 *borraserie.jsp*
 <img src="Fotos CRUD/Borrar Serie.png" alt="Borrar Serie">
 ## Inicio de sesión:
-
-## Registro:
-
+*Login.jsp*
+<img src="Fotos CRUD/Iniciar Sesión.png" alt="Iniciar Sesión">
+## Registrarse:
+*registro.jsp*
+<img src="Fotos CRUD/Registrarse.png" alt="Registrarse">
 ## Registro exitoso:
-
+*nuevousuario.jsp*
+<img src="Fotos CRUD/Registro Exitoso.png" alt="Registro Exitoso">
 ## Registro fallido:
-
+*nuevousuario.jsp*
+<img src="Fotos CRUD/Registro Fallido.png" alt="Registro Fallido">
 ## CSS y JavaScript:
 **Tanto en *peliculas.jsp* como en *series.jsp* he utilizado una plantilla CRUD de Internet, que luego he adaptado.**<br>
 main.css<br>
