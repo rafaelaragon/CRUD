@@ -50,7 +50,7 @@ Si pulsas en la bomba, se activa el siguiente modal. En él, se advierte que la 
 <img src="Fotos CRUD/Borrar Película.png" alt="Borrar Película">
 *borraserie.jsp*
 <img src="Fotos CRUD/Borrar Serie.png" alt="Borrar Serie">
-## **(¡Nuevo!)** Inicio de sesión:
+## **(¡Nuevo!)** Iniciar sesión:
 No es más que un formulario que comprueba que los credenciales que introduzcas estén en la base de datos. La contraseña que introduces está encriptada.<br>
 <br>
 *Login.jsp*
