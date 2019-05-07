@@ -1,0 +1,25 @@
+body {background-color: #5a5a5a;
+      text-align: center;}
+#formulario {text-align: center}
+.btn-red {background-color: #c60000;
+          color: white}
+.btn-red:hover {color: grey;}
+
+a.login:link {
+    text-decoration: none;
+    color: #c60000;;
+}
+a.login:visited {
+    text-decoration: none;
+    color: #c60000;;
+}
+
+a.login:hover {
+    text-decoration: none;
+    color: white;
+}
+
+a.login:active {
+    text-decoration: none;
+    color: grey;
+} 
