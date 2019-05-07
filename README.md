@@ -9,7 +9,8 @@ Vídeos en los que explico mi CRUD:
 El CRUD *Películas y Series Pendientes* me sirve para elegir de entre todas las series o películas que aún no haya visto, o simplemente volver a ver las que más me hayan gustado.
 
 ## Índice
-Al entrar en la página tienes a elegir entre dos botones. El primero te lleva al CRUD de las series pendientes y el otro al de las películas pendientes.<br>
+Al entrar en la página, si has iniciado sesión, tendrás a elegir entre dos botones. El primero te lleva al CRUD de las series pendientes y el otro al de las películas pendientes.<br>
+En el caso de que no hayas iniciado sesión, tendrás la opción de hacerlo a través de un enlace. Si no tienes cuenta puedes crear una en el enlace de registro.
 <br>
 *index.jsp*
 <img src="Fotos CRUD/Índice.png" alt="Índice">
