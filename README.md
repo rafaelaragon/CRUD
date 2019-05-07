@@ -50,16 +50,24 @@ Si pulsas en la bomba, se activa el siguiente modal. En él, se advierte que la 
 <img src="Fotos CRUD/Borrar Película.png" alt="Borrar Película">
 *borraserie.jsp*
 <img src="Fotos CRUD/Borrar Serie.png" alt="Borrar Serie">
-## Inicio de sesión:
+## **(¡Nuevo!)** Inicio de sesión:
+No es más que un formulario que comprueba que los credenciales que introduzcas estén en la base de datos. La contraseña que introduces está encriptada.<br>
+<br>
 *Login.jsp*
 <img src="Fotos CRUD/Iniciar Sesión.png" alt="Iniciar Sesión">
-## Registrarse:
+## **(¡Nuevo!)** Registrarse:
+Si aún no tienes cuenta, tras acceder a la página de registro verás un formulario similar al de inicio de sesión. La única diferencia es que debes poner la contraseña dos veces para asegurarte de escribirla correctamente. Al igual que en el inicio de sesión, la contraseña se encripta.<br>
+<br>
 *registro.jsp*
 <img src="Fotos CRUD/Registrarse.png" alt="Registrarse">
-## Registro exitoso:
+## **(¡Nuevo!)** Registro exitoso:
+Esto es lo que aparece si no has cometido ningún error durante el registro.<br>
+<br>
 *nuevousuario.jsp*
+Si las contraseñas no coinciden aparecerá esto por pantalla.<br>
+<br>
 <img src="Fotos CRUD/Registro Exitoso.png" alt="Registro Exitoso">
-## Registro fallido:
+## **(¡Nuevo!)** Registro fallido:
 *nuevousuario.jsp*
 <img src="Fotos CRUD/Registro Fallido.png" alt="Registro Fallido">
 ## CSS y JavaScript:
