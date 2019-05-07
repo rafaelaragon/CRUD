@@ -1,5 +1,5 @@
 # Películas y Series Pendientes
-## CRUD para entrega de trabajo de Programación 1º DAM (7 de Marzo)
+## CRUD para entrega de trabajo de Programación 1º DAM (8 de Mayo)
 
 Vídeos en los que explico mi CRUD:
 - https://www.youtube.com/watch?v=akKfy3JpKEY&feature=youtu.be
@@ -50,6 +50,14 @@ Si pulsas en la bomba, se activa el siguiente modal. En él, se advierte que la 
 <img src="Fotos CRUD/Borrar Película.png" alt="Borrar Película">
 *borraserie.jsp*
 <img src="Fotos CRUD/Borrar Serie.png" alt="Borrar Serie">
+## Inicio de sesión:
+
+## Registro:
+
+## Registro exitoso:
+
+## Registro fallido:
+
 ## CSS y JavaScript:
 **Tanto en *peliculas.jsp* como en *series.jsp* he utilizado una plantilla CRUD de Internet, que luego he adaptado.**<br>
 main.css<br>
