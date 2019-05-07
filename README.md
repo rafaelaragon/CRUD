@@ -53,7 +53,8 @@ Si pulsas en la bomba, se activa el siguiente modal. En él, se advierte que la 
 main.css<br>
 javascript.js<br>
 **Este es el css que yo he creado:**<br>
-index.css
+index.css<br>
+Login.css **(Nuevo)**
 ## Base de datos:
 *Nota: el nombre de tanto la base de datos como de la tabla socio es provisional, ya que usé una plantilla. Ya que no compromete el CRUD, aún no lo he cambiado.*<br>
 La base de datos, llamada *baloncesto.sql*, está formada por dos tablas; *socio (equivaldría a películas)* y *series*.<br>
