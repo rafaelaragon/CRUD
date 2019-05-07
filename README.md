@@ -72,7 +72,7 @@ La base de datos, llamada *baloncesto.sql*, está formada por dos tablas; *socio
 - SagSer: La saga a la que pertenece la serie. En caso de que pertenezca a alguna.<br>
 - NumCapSer: El número de capítulos de la serie. Si la serie tiene varias temporadas, se cuenta el número total de capítulos de todas las temporadas.<br>
 
-**Usuarios** está formada por:<br>
+**(¡Nuevo!) Usuarios** está formada por:<br>
 - IdUsu: La clave primaria del usuario.<br>
 - NomUsu: El nombre del usuario.<br>
 - ConUsu: La contraseña, *encriptada*, del usuario.<br>
