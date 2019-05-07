@@ -54,7 +54,7 @@ main.css<br>
 javascript.js<br>
 **Este es el css que yo he creado:**<br>
 index.css<br>
-Login.css **(Nuevo)**
+Login.css **(¡Nuevo!)**
 ## Base de datos:
 *Nota: el nombre de tanto la base de datos como de la tabla socio es provisional, ya que usé una plantilla. Ya que no compromete el CRUD, aún no lo he cambiado.*<br>
 La base de datos, llamada *baloncesto.sql*, está formada por dos tablas; *socio (equivaldría a películas)* y *series*.<br>
@@ -71,4 +71,10 @@ La base de datos, llamada *baloncesto.sql*, está formada por dos tablas; *socio
 - GenSer: El género, o géneros, de la serie.<br>
 - SagSer: La saga a la que pertenece la serie. En caso de que pertenezca a alguna.<br>
 - NumCapSer: El número de capítulos de la serie. Si la serie tiene varias temporadas, se cuenta el número total de capítulos de todas las temporadas.<br>
+
+**Usuarios** está formada por:<br>
+- IdUsu: La clave primaria del usuario.<br>
+- NomUsu: El nombre del usuario.<br>
+- ConUsu: La contraseña, *encriptada*, del usuario.<br>
+
 
